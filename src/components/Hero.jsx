@@ -39,7 +39,7 @@ function Hero() {
             <div className="hero-content__text">
               <h4>The Best Car Rental Service in Town!</h4>
               <h1>
-              Welcome to <span>CarBite & Co.</span>
+              Welcome to <span>CarRent.</span>
               </h1>
               <p>
               Are you tired of relying on public transportation or ride-sharing services to get around?
